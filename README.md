@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mycrosoft" alt="mycrosoft" /></a> </p>
 
-- 🔭 I’m currently working on **Password and account security**
+💾 I’m currently working on **Password and account security**
 
-- 🌱 I’m currently learning **PHP MySQL Functions**
+📚 I’m currently learning **PHP MySQL Functions**
 
 
 <h3 align="left">Languages and Tools:</h3>
