@@ -1,18 +1,18 @@
-[![MasterHead](https://i.imgur.com/CuooJoO.jpg)]()
+[![MasterHead](https://i.imgur.com/2VW7uKZ.png)]()
 <h1 align="center">Wecome on my GitHub profile</h1>
 <h2 align="center">🇨🇿 I'm MycroSoft 🇨🇿</h2>
 <h3 align="center">Begineer website app developer</h3>
 <h5 align="center"> | This is a new github account | </h5>
-<img class="myIMG" align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mycrosoft&label=Profile%20views&color=0e75b6&style=flat" alt="mycrosoft" /> </p>
 
-
+<img class="myIMG" align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 💾 I’m currently working on **Password and account security**
 
 📚 I’m currently learning **PHP MySQL Functions** 
 
-<p><img src="https://camo.githubusercontent.com/ee5c1601462a41b43597ec0cd07cd5c9be809b2196047b7ad0a362666c7c433f/68747470733a2f2f707265766965772e726564642e69742f383779383231313775686336312e706e673f77696474683d35313226666f726d61743d706e67266175746f3d7765627026733d30383264653964356437626336633231323334346334396439626433643437316130383332636538" width="25"> mYcro_soft#5689</p>
+<img src="https://i.imgur.com/VXi9VEd.png">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
