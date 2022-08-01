@@ -3,7 +3,7 @@
 <h2 align="center">🇨🇿 I'm MycroSoft 🇨🇿</h2>
 <h3 align="center">Begineer website app developer</h3>
 <h5 align="center"> | This is a new github account | </h5>
-<img class="myIMG" align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
+<img class="myIMG" align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mycrosoft&label=Profile%20views&color=0e75b6&style=flat" alt="mycrosoft" /> </p>
 
