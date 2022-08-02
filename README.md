@@ -1,7 +1,7 @@
 [![MasterHead](https://i.imgur.com/QqpWUlv.png)]()
 <h1 align="center">Welcome on my GitHub profile.</h1>
 <h2 align="center">🇨🇿 I'm MycroSoft 🇨🇿</h2>
-<h3 align="center">Begineer website app developer</h3>
+<h3 align="center">Begineer web app developer</h3>
 <h5 align="center"> | This is a new github account | </h5>
 
 
