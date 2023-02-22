@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/94SyjmP.png)]()
+[![MasterHead](https://i.imgur.com/zdrXIzM.jpg)]()
 <h1 align="center">Welcome on my GitHub profile.</h1>
 <h2 align="center">I'm mYYcro</h2>
 
