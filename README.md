@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/QqpWUlv.png)]()
+[![MasterHead](https://i.imgur.com/94SyjmP.png)]()
 <h1 align="center">Welcome on my GitHub profile.</h1>
 <h2 align="center">🇨🇿 I'm MycroSoft 🇨🇿</h2>
 <h3 align="center">Begineer web app developer</h3>
@@ -6,7 +6,7 @@
 
 
 <img class="myIMG" align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<p align="left"> <img src="https://i.imgur.com/94SyjmP.png" alt="mycrosoft" /> </p>
+<p align="left"> <img src="[https://i.imgur.com/94SyjmP.png](https://komarev.com/ghpvc/?username=mycrosoft&label=Profile%20views&color=0e75b6&style=flat)" alt="mycrosoft" /> </p>
 
 💾 I’m currently working on **Password and account security**
 
