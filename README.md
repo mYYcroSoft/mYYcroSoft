@@ -4,6 +4,7 @@
 
 [CURRENCY CONVERTER](https://myycrosoft.github.io/currency_converter/)
 
+![1687002991241](image/README/1687002991241.png)
 
 <a alihing="left" href="https://mycrosoft.gitbook.io/book/"><img src="https://i.imgur.com/1nweJZx.png" width="250"></a>
 
