@@ -2,16 +2,27 @@
 
 # PROJECTS
 
-| Project name                     | Last update | Website / Repo                                                               | Done |
-| -------------------------------- | ----------- | ---------------------------------------------------------------------------- | ---- |
-| **Currency converter**     | 17.06.2023  | [Click](Demohttps://myycrosoft.github.io/currency_converter/)                   | ❌   |
-| **Weather forecasts**      | 16.06.2023  |                                                                              | ❌   |
-| **Digital product e-shop** | 14.06.2023  | [Click](https://github.com/mYYcroSoft/Digital_products_eshop_and_encryptor "Demo") | ❌   |
+| Project name                     | Last update | Website / Repo                                                                          | Done |
+| -------------------------------- | ----------- | --------------------------------------------------------------------------------------- | ---- |
+| **Currency converter**     | 17.06.2023  | [Click](Demohttps://myycrosoft.github.io/currency_converter/)                              | ❌   |
+| **Weather forecasts**      | 16.06.2023  |                                                                                         | ❌   |
+| **Digital product e-shop** | 14.06.2023  | [Click](https://github.com/mYYcroSoft/Digital_products_eshop_and_encryptor "Demo")            | ❌   |
+| **MineKaft game**          | 13.06.2023  | [Click](https://github.com/mYYcroSoft/python_repository/tree/main/MajnKampf_game)          | ❌   |
+| ThreeJS minigame                 | 29.05.2023  | [Click](https://github.com/mYYcroSoft/three.js_projects)                                   | ❌   |
+| Sorting system                   | 15.05.2023  | [Click](https://github.com/mYYcroSoft/python_repository/tree/main/sorting_system)          | ✅   |
+| Emoji text encryptor             | 10.06.2023  | [Click](https://github.com/mYYcroSoft/python_repository/blob/main/text_encryptor/index.py) | ⚠   |
+| Nette website                    | 16.06.2023  | [Click](https://github.com/mYYcroSoft/nette-fw)                                            | ❌   |
 
-<a alihing="left" href="https://mycrosoft.gitbook.io/book/"><img src="https://i.imgur.com/1nweJZx.png" width="250"></a>
 
-<img src="https://i.imgur.com/VXi9VEd.png"  width="250">
+# SCHOOL PROJECTS
 
-
-
-`<p><a href="https://ko-fi.com/ko-fi.com/mycro">` `<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/mycro" /></a>``</p><br>``<br>`
+| Project name        | Language | Repo                                                                                  | Level | Done |
+| ------------------- | -------- | ------------------------------------------------------------------------------------- | ----- | ---- |
+| Binary converter    | Python   | [Click](https://github.com/mYYcroSoft/Python-NumberToBinary)                             | Basic | ✅   |
+| Binary/Decimal IP   | Python   | [Click](https://github.com/mYYcroSoft/Python_IP_Binary-Decimal)                          | Basic | ✅   |
+| Data copmressor     | Python   | [Click](https://github.com/mYYcroSoft/py_data_compression)                               | Basic | ✅   |
+| Geometry calculator | Python   | [Click](https://github.com/mYYcroSoft/py_Geometry_calc)                                  | Basic | ✅   |
+| Lamp algorithm      | Python   | [Click](https://github.com/mYYcroSoft/python-lampy)                                      | Basic | ✅   |
+| Array algorithm     | Python   | [Click](https://github.com/mYYcroSoft/python_repository/tree/main/array_simple_while)    | Basic | ✅   |
+| Minesweeper         | Python   | [Click](https://github.com/mYYcroSoft/python_repository/tree/main/minesweeper)           | Basic | ✅   |
+| Hangman             | Python   | [Click](https://github.com/mYYcroSoft/python_repository/tree/main/selftmurder_word_game) | Basic | ✅   |
