@@ -4,7 +4,7 @@
 
 | Project name                     | Last update | Website / Repo                                                                          | Done |
 | -------------------------------- | ----------- | --------------------------------------------------------------------------------------- | ---- |
-| **Currency converter**     | 17.06.2023  | [Click](Demohttps://myycrosoft.github.io/currency_converter/)                              | ❌   |
+| **Currency converter**     | 17.06.2023  | [Click](https://myycrosoft.github.io/currency_converter/)                                  | ❌   |
 | **Weather forecasts**      | 16.06.2023  |                                                                                         | ❌   |
 | **Digital product e-shop** | 14.06.2023  | [Click](https://github.com/mYYcroSoft/Digital_products_eshop_and_encryptor "Demo")            | ❌   |
 | **MineKaft game**          | 13.06.2023  | [Click](https://github.com/mYYcroSoft/python_repository/tree/main/MajnKampf_game)          | ❌   |
