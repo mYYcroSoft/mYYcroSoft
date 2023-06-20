@@ -1,6 +1,22 @@
 [![MasterHead](https://i.imgur.com/zdrXIzM.jpg)]()
 
-![1687083472749](image/README/1687083472749.png)
+# SERVICES
+
+| Service             | CZK            | EUR           | eur/hour   |
+| ------------------- | -------------- | ------------- | ---------- |
+| FiveM development   |                |               | 6€ / h   |
+| FiveM custom script | 300 - 1500czk  | 15eur - 63€  | ❌         |
+| Static website      | 1000 - 9000czk | 42eur - 378€ | ❌         |
+| Dynamic website     | 1500 - 2000czk | 63eur - 841€ | ❌         |
+| Web development     |                |               | 10 € / h |
+
+**Contact**
+
+**Discord:** mYcro_soft#5689
+
+**E-mail:** myycrosoft22@gmail.com
+
+
 
 # PROJECTS
 
@@ -14,7 +30,6 @@
 | Sorting system                   | 15.05.2023  | [Click](https://github.com/mYYcroSoft/python_repository/tree/main/sorting_system)          | ✅   |
 | Emoji text encryptor             | 10.06.2023  | [Click](https://github.com/mYYcroSoft/python_repository/blob/main/text_encryptor/index.py) | ⚠   |
 | Nette website                    | 16.06.2023  | [Click](https://github.com/mYYcroSoft/nette-fw)                                            | ❌   |
-
 
 # SCHOOL PROJECTS
 
