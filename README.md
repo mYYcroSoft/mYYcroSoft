@@ -2,21 +2,19 @@
 
 # SERVICES
 
-| Service             | CZK            | EUR           | eur/hour   |
-| ------------------- | -------------- | ------------- | ---------- |
-| FiveM development   |                |               | 6€ / h   |
-| FiveM custom script | 300 - 1500czk  | 15eur - 63€  | ❌         |
-| Static website      | 1000 - 9000czk | 42eur - 378€ | ❌         |
-| Dynamic website     | 1500 - 20000czk | 63eur - 841€ | ❌         |
-| Web development     |                |               | 10 € / h |
+| Service             | CZK            | EUR           | eur/hour  |
+| ------------------- | -------------- | ------------- | --------- |
+| FiveM development   |                |               | 11€ / h |
+| FiveM custom script | 300 - 1500czk  | 15eur - 63€  | ❌        |
+| Static website      | 1000 - 9000czk | 42eur - 378€ | ❌        |
+| Dynamic website     | 1500 - 2000czk | 63eur - 841€ | ❌        |
+| Web development     |                |               | 15€ / h |
 
 **Contact**
 
 **Discord:** mYcro_soft#5689
 
 **E-mail:** myycrosoft22@gmail.com
-
-
 
 # PROJECTS
 
