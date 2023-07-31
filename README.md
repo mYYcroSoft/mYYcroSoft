@@ -41,3 +41,17 @@
 | Array algorithm     | Python   | [Click](https://github.com/mYYcroSoft/python_repository/tree/main/array_simple_while)    | Basic | ✅   |
 | Minesweeper         | Python   | [Click](https://github.com/mYYcroSoft/python_repository/tree/main/minesweeper)           | Basic | ✅   |
 | Hangman             | Python   | [Click](https://github.com/mYYcroSoft/python_repository/tree/main/selftmurder_word_game) | Basic | ✅   |
+
+# FIVEM ORDERS SHOWCASE
+
+Here are not all samples of works.
+
+| Script name                   | Demo                                                                                                                                          | Order |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Realistic camera              | [Click](https://www.youtube.com/watch?v=QqtS0aRFJ8E)                                                                                             | ✅    |
+| Banking system                | [Click](https://streamable.com/24c490)                                                                                                           | ✅    |
+| Dead system                   | [Click](https://cdn.discordapp.com/attachments/785524530306875392/995742127201976332/fc_deadscreen-demo.mp4)                                     | ❌    |
+| Inventory                     | [Click](https://cdn.discordapp.com/attachments/785524530306875392/899292200142274600/unknown-10.png)                                             | ❌    |
+| First car selector            | [Click](https://cdn.discordapp.com/attachments/1092525759970676836/1100709372440608788/FiveM_by_Cfx.re_-_FC-LUA_-_Dev_1_2023-04-26_11-03-08.mp4) | ✅    |
+| First spawn selector          | [Click](https://cdn.discordapp.com/attachments/1118959915613036604/1129006335984406618/FiveM_by_Cfx.re_-_FC-LUA_-_Dev_1_2023-07-13_13-07-42.mp4) | ✅    |
+| Invoice, garage, Drugs system | [Click](https://www.youtube.com/watch?v=yb6xRxWLTzo)                                                                                             | ✅    |
