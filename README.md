@@ -2,13 +2,13 @@
 
 # SERVICES
 
-| Service             | CZK            | EUR           | eur/hour  |
-| ------------------- | -------------- | ------------- | --------- |
-| FiveM development   |                |               | 11€ / h |
-| FiveM custom script | 300 - 1500czk  | 15eur - 63€  | ❌        |
-| Static website      | 1000 - 9000czk | 42eur - 378€ | ❌        |
+| Service             | CZK             | EUR           | eur/hour  |
+| ------------------- | --------------- | ------------- | --------- |
+| FiveM development   |                 |               | 11€ / h |
+| FiveM custom script | 300 - 1500czk   | 15eur - 63€  | ❌        |
+| Static website      | 1000 - 9000czk  | 42eur - 378€ | ❌        |
 | Dynamic website     | 1500 - 20000czk | 63eur - 841€ | ❌        |
-| Web development     |                |               | 15€ / h |
+| Web development     |                 |               | 15€ / h |
 
 **Contact**
 
@@ -18,16 +18,17 @@
 
 # PROJECTS
 
-| Project name                     | Last update | Website / Repo                                                                          | Done |
-| -------------------------------- | ----------- | --------------------------------------------------------------------------------------- | ---- |
-| **Currency converter**     | 17.06.2023  | [Click](https://myycrosoft.github.io/currency_converter/)                                  | ❌   |
-| **Weather forecasts**      | 16.06.2023  |                                                                                         | ❌   |
-| **Digital product e-shop** | 14.06.2023  | [Click](https://github.com/mYYcroSoft/Digital_products_eshop_and_encryptor "Demo")            | ❌   |
-| **MineKaft game**          | 13.06.2023  | [Click](https://github.com/mYYcroSoft/python_repository/tree/main/MajnKampf_game)          | ❌   |
-| ThreeJS minigame                 | 29.05.2023  | [Click](https://github.com/mYYcroSoft/three.js_projects)                                   | ❌   |
-| Sorting system                   | 15.05.2023  | [Click](https://github.com/mYYcroSoft/python_repository/tree/main/sorting_system)          | ✅   |
-| Emoji text encryptor             | 10.06.2023  | [Click](https://github.com/mYYcroSoft/python_repository/blob/main/text_encryptor/index.py) | ⚠   |
-| Nette website                    | 16.06.2023  | [Click](https://github.com/mYYcroSoft/nette-fw)                                            | ❌   |
+| Project name                     | Last update | Website / Repo                                                                                | Done |
+| -------------------------------- | ----------- | --------------------------------------------------------------------------------------------- | ---- |
+| **Currency converter**     | 17.06.2023  | [Click](https://myycrosoft.github.io/currency_converter/)                                        | ❌   |
+| **Weather forecasts**      | 16.06.2023  |                                                                                               | ❌   |
+| **Digital product e-shop** | 14.06.2023  | [Click](https://github.com/mYYcroSoft/Digital_products_eshop_and_encryptor "Demo")                  | ❌   |
+| **MineKaft game**          | 13.06.2023  | [Click](https://github.com/mYYcroSoft/python_repository/tree/main/MajnKampf_game)                | ❌   |
+| ThreeJS minigame                 | 29.05.2023  | [Click](https://github.com/mYYcroSoft/three.js_projects)                                         | ❌   |
+| Sorting system                   | 15.05.2023  | [Click](https://github.com/mYYcroSoft/python_repository/tree/main/sorting_system)                | ✅   |
+| Emoji text encryptor             | 10.06.2023  | [Click](https://github.com/mYYcroSoft/python_repository/blob/main/text_encryptor/index.py)       | ⚠   |
+| Nette website                    | 16.06.2023  | [Click](https://github.com/mYYcroSoft/nette-fw)                                                  | ❌   |
+| Music portfolio (Custom)         | 00.00.00    | [Image](https://cdn.discordapp.com/attachments/946490839343964211/1145084766316666990/image.png) | ❌   |
 
 # SCHOOL PROJECTS
 
