@@ -12,6 +12,14 @@
 
 **E-mail:** myycrosoft22@gmail.com
 
+
+### Osobní web (Ve vývoji)
+
+* Nemusí být plně responzivní
+* Splňuje SEO
+
+[https://myycrosoft.github.io/]()
+
 # PROJECTS
 
 | Project name                     | Last update | Website / Repo                                                                                | Done |
@@ -52,6 +60,3 @@ Here are not all samples of works.
 | First car selector            | [Click](https://cdn.discordapp.com/attachments/1092525759970676836/1100709372440608788/FiveM_by_Cfx.re_-_FC-LUA_-_Dev_1_2023-04-26_11-03-08.mp4) | ✅    |
 | First spawn selector          | [Click](https://cdn.discordapp.com/attachments/1118959915613036604/1129006335984406618/FiveM_by_Cfx.re_-_FC-LUA_-_Dev_1_2023-07-13_13-07-42.mp4) | ✅    |
 | Invoice, garage, Drugs system | [Click](https://www.youtube.com/watch?v=yb6xRxWLTzo)                                                                                             | ✅    |
-
-
-
