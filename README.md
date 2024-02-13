@@ -12,7 +12,6 @@
 
 **E-mail:** myycrosoft22@gmail.com
 
-
 ### Osobní web (Ve vývoji)
 
 * Nemusí být plně responzivní
@@ -33,6 +32,7 @@
 | Emoji text encryptor             | 10.06.2023  | [Click](https://github.com/mYYcroSoft/python_repository/blob/main/text_encryptor/index.py)       | ⚠   |
 | Nette website                    | 16.06.2023  | [Click](https://github.com/mYYcroSoft/nette-fw)                                                  | ❌   |
 | Music portfolio (Custom)         | 00.00.00    | [Image](https://cdn.discordapp.com/attachments/946490839343964211/1145084766316666990/image.png) | ❌   |
+| Management system (private)      | x           | [Image](https://github.com/mYYcroSoft/mYYcroSoft/blob/main/image/README/brave_shWWEcTaZa.pnh)    | ✅   |
 
 # SCHOOL PROJECTS
 
